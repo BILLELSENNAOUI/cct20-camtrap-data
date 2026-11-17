@@ -1,0 +1,1 @@
+# cct20-camtrap-data
